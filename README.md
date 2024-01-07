@@ -1,3 +1,1 @@
-# SpellChecker-Based-on-Trie
-# Text-AutoCompletion-Application
-# Text-AutoCompletion-Application
+Text Autocompletion • Application that demonstrates the functionality of providing suggestions for autocompleting texts • Based on Trie data structure • Implemented a feature to suggest all possible words based on the user’s input prefix
